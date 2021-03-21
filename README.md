@@ -44,8 +44,8 @@ THEN the saved events persist
 ```
 
 ## Screenshots
-![screenshot-1](https://raw.githubusercontent.com/jacob-studer/03-JavaScript-Password-Generator/main/assets/screenshot/Screenshot%201.PNG)
+![screenshot-1](https://raw.githubusercontent.com/jacob-studer/05-Third-Party-APIs-Work-Day-Scheduler/main/Assets/images/Capture.PNG)
 
 ## Links
-https://github.com/jacob-studer/03-JavaScript-Password-Generator
-https://jacob-studer.github.io/03-JavaScript-Password-Generator/
+https://github.com/jacob-studer/05-Third-Party-APIs-Work-Day-Scheduler
+https://jacob-studer.github.io/05-Third-Party-APIs-Work-Day-Scheduler/
